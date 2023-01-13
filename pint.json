@@ -1,0 +1,35 @@
+{
+    "preset": "laravel",
+    "rules": {
+        "array_indentation": true,
+        "assign_null_coalescing_to_coalesce_equal": true,
+        "binary_operator_spaces": {
+            "default": "align_single_space"
+        },
+        "combine_consecutive_issets": true,
+        "curly_braces_position": {
+            "classes_opening_brace": "next_line_unless_newline_at_signature_end",
+            "functions_opening_brace": "next_line_unless_newline_at_signature_end"
+        },
+        "logical_operators": true,
+        "lowercase_cast": true,
+        "lowercase_keywords": true,
+        "lowercase_static_reference": true,
+        "modernize_types_casting": true,
+        "no_empty_comment": true,
+        "no_empty_phpdoc": true,
+        "no_spaces_inside_parenthesis": true,
+        "phpdoc_trim": true,
+        "simplified_null_return": true,
+        "single_line_throw": true,
+        "ternary_operator_spaces": true,
+        "ternary_to_null_coalescing": true,
+        "trim_array_spaces": true,
+        "types_spaces": {
+            "space": "single"
+        },
+        "whitespace_after_comma_in_array": {
+            "ensure_single_space": true
+        }
+    }
+}

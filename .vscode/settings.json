@@ -1,0 +1,5 @@
+{
+    "laravel-pint.executablePath": "vendor/bin/pint",
+    "laravel-pint.configPath": "pint.json",
+    "laravel-pint.enable": true
+}
